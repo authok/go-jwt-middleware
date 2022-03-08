@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Authok Community
+    url: https://community.authok.com/c/sdks/5
+    about: Discuss this SDK in the Authok Community forums
+  - name: SDK API Documentation
+    url: https://pkg.go.dev/github.com/authok/go-jwt-middleware
+    about: Read the API documentation for this SDK
