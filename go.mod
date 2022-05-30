@@ -1,4 +1,4 @@
-module github.com/authok/go-jwt-middleware/v2
+module github.com/authok/go-jwt-middleware
 
 go 1.17
 
